@@ -29,3 +29,6 @@ Here is show the final result about two different cameras in different position 
   <img src="https://github.com/ValentiniMichel/Computer_Vision/blob/main/docs/ezgif.com-video-to-gif.gif" width="400" height="300" >
 </div>
 
+
+# Run code
+To running the project easily copy the repository in a folder, then execute the file "video_model_gravity.blend" and modify the path of cameras parameters correctly. 
