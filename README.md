@@ -20,4 +20,7 @@ At the end is be add objects like a sphere in the scene to create a example of v
    <img src="docs/Immagine1.png">
  </p>
 
-![alt-text]([link](https://github.com/ValentiniMichel/Computer_Vision/blob/main/docs/ezgif.com-video-to-gif%20(1).gif)https://github.com/ValentiniMichel/Computer_Vision/blob/main/docs/ezgif.com-video-to-gif%20(1).gif)
+![alt-text](https://github.com/ValentiniMichel/Computer_Vision/blob/main/docs/ezgif.com-video-to-gif%20(1).gif)
+
+
+![alt-text](https://github.com/ValentiniMichel/Computer_Vision/blob/main/docs/ezgif.com-video-to-gif.gif)
