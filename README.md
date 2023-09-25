@@ -22,4 +22,4 @@ At the end is be add objects like a sphere in the scene to create a example of v
 
 ![alt-text](https://github.com/ValentiniMichel/Computer_Vision/blob/main/docs/ezgif.com-video-to-gif%20(1).gif | width=100)
 
-![alt-text](https://github.com/ValentiniMichel/Computer_Vision/blob/main/docs/ezgif.com-video-to-gif.gif)
+![alt-text](https://github.com/ValentiniMichel/Computer_Vision/blob/main/docs/ezgif.com-video-to-gif.gif width="200" height="400")
