@@ -12,12 +12,12 @@ Then, export the mesh, texture and camera parameters in a folder used by Blender
 Here, a camera has been created for each camera parameters file from Zephyr, and the values for focal length, sensor width, height, the shift on x and y, and finally, the camera's position and rotation have been correctly set with Blender's world.
 
  <p align="center">
-   <img src="docs/Immagine1.png">
+   <img src="docs/Immagine2.png">
  </p>
 At the end is be add objects like a sphere in the scene to create a example of vistual reality. 
 
  <p align="center">
-   <img src="docs/Immagine2.png">
+   <img src="docs/Immagine1.png">
  </p>
 
 
