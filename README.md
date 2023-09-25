@@ -20,6 +20,12 @@ At the end is be add objects like a sphere in the scene to create a example of v
    <img src="docs/Immagine1.png">
  </p>
 
-![alt-text](https://github.com/ValentiniMichel/Computer_Vision/blob/main/docs/ezgif.com-video-to-gif%20(1).gif | width=100)
+Here is show the final result about two different cameras in different position and rotation that display the animation: 
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://github.com/ValentiniMichel/Computer_Vision/blob/main/docs/ezgif.com-video-to-gif%20(1).gif" width="400" height="300">
+</div>
 
-![alt-text](https://github.com/ValentiniMichel/Computer_Vision/blob/main/docs/ezgif.com-video-to-gif.gif width="200" height="400")
+<div style="display: inline-block;">
+  <img src="https://github.com/ValentiniMichel/Computer_Vision/blob/main/docs/ezgif.com-video-to-gif.gif" width="400" height="300" >
+</div>
+
