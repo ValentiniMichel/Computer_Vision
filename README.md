@@ -1,6 +1,6 @@
 # Computer_Vision
 Valentini Michel's exam project of Computer Vision about camera pose estimation in a 3d model. 
-Fist step is take images from the environment to recustruct, upload images in Zephyr and create the 3d model. 
+First step is take images from the environment to reconstruct, upload images in Zephyr and create the 3d model. 
 
  <p align="center">
    <img src="docs/Immagine.png">
@@ -14,7 +14,7 @@ Here, a camera has been created for each camera parameters file from Zephyr, and
  <p align="center">
    <img src="docs/Immagine2.png">
  </p>
-At the end is be add objects like a sphere in the scene to create a example of vistual reality. 
+At the end is be add objects like a sphere in the scene to create a example of virtual reality. The animation was made possible by adding physics in Blender to both objects, allowing for collisions between the two objects, the mesh, and the ball.
 
  <p align="center">
    <img src="docs/Immagine1.png">
