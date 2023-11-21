@@ -29,6 +29,23 @@ Here is show the final result about two different cameras in different position 
   <img src="https://github.com/ValentiniMichel/Computer_Vision/blob/main/docs/ezgif.com-video-to-gif.gif" width="400" height="300" >
 </div>
 
+In order to achieve a convincing augmented reality effect, we incorporate the original image (the one used to construct the 3D object) at the conclusion. This image is placed as the background in the camera view. Subsequently, the 3D object is removed, leaving only the animation superimposed on the original image. The outcome is a virtual animation seamlessly integrated into a real image, delivering the anticipated result akin to virtual reality.
 
+<div style="display: inline-block;">
+  <img src="https://github.com/ValentiniMichel/Computer_Vision/blob/main/docs/6rvyz.gif" width="400" height="300" >
+</div>
+
+<div style="display: inline-block;">
+  <img src="https://github.com/ValentiniMichel/Computer_Vision/blob/main/docs/86rw2c.gif" width="400" height="300" >
+</div>
+
+<div style="display: inline-block;">
+  <img src="https://github.com/ValentiniMichel/Computer_Vision/blob/main/docs/86rw4f.gif" width="400" height="300" >
+</div>
+
+<div style="display: inline-block;">
+  <img src="https://github.com/ValentiniMichel/Computer_Vision/blob/main/docs/86rw6a.gif" width="400" height="300" >
+</div>
+ 
 # Run code
 To running the project easily copy the repository in a folder, then execute the file "video_model_gravity.blend" and modify the path of cameras parameters correctly. 
